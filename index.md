@@ -1,4 +1,4 @@
-<!-- ## Shubham Mahajan -->
+## Shubham Mahajan
 smahaja5@ucsc.edu | +1 (831) 266 5613 | http://linkedin.com/in/shubham8899 | Santa Cruz, CA
 
 ### Coursework
@@ -11,6 +11,17 @@ smahaja5@ucsc.edu | +1 (831) 266 5613 | http://linkedin.com/in/shubham8899 | San
 * Data Structures and Files + Laboratory
 * Machine Learning and Applications + Laboratory
 * Database Management Systems + Laboratory Software Design and Modeling
+
+### Experience
+* __FinSoftAi - Software Engineering Intern__ (Feb 2021 – July 2021)
+	* Created an open-source NLP engine to extract information from text
+	* Techniques used: sentiment analysis, named entity recognition, keyword extraction
+	* Researched concept extraction, aspect-based sentiment analysis
+
+* __HumLife360 - Natural Language Processing Intern__ (May 2020 – Sep 2020)
+	* Created a chat-based personal assistant for FAQs and data entry
+	* Created an analysis pipeline for conversations between diabetic customers and their health coaches
+	* Techniques used: word cloud, topic modeling, sentiment analysis
 
 ### Projects
 * Mobile Application for the Visually Challenged

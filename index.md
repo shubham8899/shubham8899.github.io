@@ -1,8 +1,9 @@
-<!-- ## Shubham Mahajan -->
+## Shubham Mahajan
+smahaja5@ucsc.edu | +1 (831) 266 5613 | linkedin.com/in/shubham8899 | Santa Cruz, CA
 
-You can use the [editor on GitHub](https://github.com/shubham8899/shubham8899.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/shubham8899/shubham8899.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ -->
+<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 ### Markdown
 

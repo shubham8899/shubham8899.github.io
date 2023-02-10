@@ -1,37 +1,56 @@
-## Shubham Mahajan
-smahaja5@ucsc.edu | +1 (831) 266 5613 | http://linkedin.com/in/shubham8899 | Santa Cruz, CA
+# Shubham Mahajan
 
-### Coursework
-* Fundamentals of Programming Languages
-* Software Engineering and Project Management
-* Human-Computer Interaction
-* Soft Computing
-* Problem Solving and Object-Oriented Programming + Lab.
-* Data Science and Big Data Analytics
-* Data Structures and Files + Laboratory
-* Machine Learning and Applications + Laboratory
-* Database Management Systems + Laboratory Software Design and Modeling
+## Overview
+- Master of Science (MS) in Computer Science and Engineering from University of California, Santa Cruz
+- Bachelor of Engineering (BE) in Information Technology from Pune Institute of Computer Technology
+- Experienced in Machine Learning, Natural Language Processing, and Computer Vision
+- Proficient in Python, C, C++, and SQL
+- Excellent skills in Git, Pandas, Matplotlib, Numpy, and Tableau
 
-### Experience
-* __FinSoftAi - Software Engineering Intern__ (Feb 2021 – July 2021)
-	* Created an open-source NLP engine to extract information from text
-	* Techniques used: sentiment analysis, named entity recognition, keyword extraction
-	* Researched concept extraction, aspect-based sentiment analysis
+## Education
+- University of California, Santa Cruz
+  Master of Science (MS), Computer Science and Engineering; GPA: 3.81/4
+  Sep 2021 - June 2023
+  Courses: Machine Learning, Artificial Intelligence, Projects in AI, Information Retrieval, Analysis of Algorithms
+- Pune Institute of Computer Technology
+  Bachelor of Engineering (BE), Information Technology; GPA:8.89/10
+  Aug 2017 - July 2021
 
-* __HumLife360 - Natural Language Processing Intern__ (May 2020 – Sep 2020)
-	* Created a chat-based personal assistant for FAQs and data entry
-	* Created an analysis pipeline for conversations between diabetic customers and their health coaches
-	* Techniques used: word cloud, topic modeling, sentiment analysis
+## Skills
+- Machine Learning: Deep Learning, NLP, Computer Vision, PyTorch, Keras
+- Languages: Python, C, C++, HTML, CSS, JavaScript, SQL
+- Tools: Git, Scikit-learn, Pandas, Matplotlib, Numpy, Tableau, Selenium
 
-### Projects
-* Mobile Application for the Visually Challenged
-	* Developed a user-friendly mobile application to help the visually challenged (with haptics/sound)
-	* Studied Machine Learning, User Interface, and Mobile Application Development over a period of 1 year
-	* Used visual question answering to help the user get answers to questions about things in their vicinity
+## Experience
+- Merlin Labs, Boston, MA (Remote)
+  Software Intern - NLP
+  June 2022 - Sep 2022
+- FinSoftAI, Pune, India
+  Software Engineering Intern
+  Feb 2021 - July 2021
+- HumLife360, Oak Park, IL (Remote)
+  Intern
+  May 2020 - Sep 2020
+- Moyyn, Berlin, Germany (Remote)
+  Intern
+  Apr 2020
 
-* Automatic Time-Table Generation System
-	* Developed a full-stack web application to generate a time-table based on input data
-	* Teamed with 3 classmates to understand requirements, choose the algorithm, and write code
-	* Used MySQL (RDBMS) backend in combination with HTML/CSS/JSP frontend
+## Projects
+- WoundNet: A Domain-Adaptable Few-Shot Classification Framework
+- Coral: An Approach for Conversational Agents in Mental Health Applications
+- Mobile Application for the Visually Challenged
+- Customer Satisfaction Analysis
 
+## Certifications
+- Neural Networks and Deep Learning (Coursera/deeplearning.ai), Oct 2019
+- Improving Deep Neural Networks (Coursera/deeplearning.ai), Mar 2020
 
+## Honors and Awards
+- Finalist, Manipal Hackathon 2020, Manipal Institute of Technology, India
+- Top 5, AI Hackathon 2019, Symbiosis Institute of Technology, India
+
+## Contact
+- Email: smahaja5@ucsc.edu
+- Mobile: +1-831-266-5613
+- LinkedIn: linkedin.com/in/shubham8899/
+- GitHub: github.com/shubham8899
